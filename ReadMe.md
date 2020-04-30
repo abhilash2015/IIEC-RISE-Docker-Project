@@ -44,7 +44,7 @@ STEPS:
 3. To see all docker images: docker images
 4. Create new folder: mkdir myproject
                       cd myproject
-5. Create a file named ìdocker-compose.ymlî inside the ìmyprojectî directory.
+5. Create a file named ‚Äúdocker-compose.yml‚Äù inside the ‚Äúmyproject‚Äù directory.
 cd myproject
 vim docker-compose.yml
 6. Enter the source code
